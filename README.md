@@ -51,3 +51,20 @@ Contributions are welcome! If you have a favorite quote that you would like to a
 
 For more information about MustReadQuotes, please check out our website: [MustReadQuotes.com](https://mustreadquotes.com)
   
+## Links & Resources
+[Must Read Quotes](https://mustreadquotes.com)  
+[QuotePicker on GitHub](https://github.com/MustReadQuotes/QuotePicker)  
+[QuotePicker on NPM](https://www.npmjs.com/package/quotepicker)  
+[QuotePicker on Aliyun](https://developer.aliyun.com/mirror/npm/package/quotepicker)  
+[QuotePicker on TAONPM](https://npmmirror.com/package/quotepicker)  
+[QuotePicker on jsDlivr](https://www.jsdelivr.com/package/npm/quotepicker)  
+[QuotePicker on Snyk](https://snyk.io/advisor/npm-package/quotepicker)  
+[QuotePicker on Libraries.io](https://libraries.io/npm/quotepicker)  
+[QuotePicker on RunKit](https://npm.runkit.com/quotepicker)  
+[QuotePicker on npm trends](https://www.npmtrends.com/quotepicker)  
+[QuotePicker on Package Phobia](https://packagephobia.com/result?p=quotepicker)  
+[QuotePicker on Skypack](https://www.skypack.dev/view/quotepicker)  
+[QuotePicker on CNPM](https://cnpmjs.org/package/quotepicker)  
+[QuotePicker on githubmemory](https://githubmemory.com/repo/javascriptutils/quotepicker)  
+[QuotePicker on npm.io](https://npm.io/package/quotepicker)  
+[QuotePicker on Pkg Stats](https://www.pkgstats.com/pkg:quotepicker)
