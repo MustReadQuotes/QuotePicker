@@ -11,7 +11,14 @@
     "type": "git",
     "url": "git+https://github.com/MustReadQuotes/QuotePicker.git"
   },
-  "author": "MustReadQuotes.com",
+  "keywords": [
+    "quote",
+    "quotes",
+    "quotation",
+    "quotations"
+  ],  
+  "author": "Must Read Quotes",
+  "homepage": "https://mustreadquotes.com",
   "license": "ISC",
   "dependencies": {
     "csv-parser": "^2.3.3",
